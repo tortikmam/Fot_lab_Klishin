@@ -44,7 +44,7 @@ int main() {
     printf("\n");
 
     // Поиск максимального элемента массива A
-    int max_a = 0;
+    int max_a = ar_a[0];
     for (int i = 0; i < size_ar; i += 2) {
         if (max_a < ar_a[i]) {
             max_a = ar_a[i]; // Обновление максимума
