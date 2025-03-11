@@ -142,6 +142,8 @@ int main() {
 
     SelectionSort(a, 3, &C1, &M1);
 
+    printf(“hello git\n”);
+
     int n = 10;
     int b = 100;
     int A[n];
