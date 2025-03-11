@@ -193,4 +193,3 @@ int main() {
     ZnachTable(b, MC, C1, M1, C2, M2, C3, M3, C4, M4, C5, M5, C6, M6);
     
 }
-//9 punkt`
